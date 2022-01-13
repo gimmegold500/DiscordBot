@@ -1,0 +1,6 @@
+How to Run the bot
+
+1. Go to terminal,
+2. enter: cd \Users\gimme\OneDrive\Desktop\kneebot
+3. enter: python bot.py
+4. Enjoy!
