@@ -1,6 +1,9 @@
 How to Run the bot
 
 1. Go to terminal,
-2. enter: cd \Users\gimme\OneDrive\Desktop\kneebot
-3. enter: python bot.py
-4. Enjoy!
+2. Enter: cd your\file\path\here\ (with your custom file path)
+3. Create a .env file in that path with the only line being 
+"token = yourtokenhere" with your discord bot's token which 
+can be found on your developer portal
+4. Enter: python bot.py
+5. Enjoy!
