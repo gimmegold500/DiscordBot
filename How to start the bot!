@@ -1,0 +1,11 @@
+How to Run the bot
+
+1. Download these files into a single folder
+2. Run the command in terminal: pip install discord.py
+3. In terminal enter: cd your\file\path\here\ (with your custom file path)
+4. Open and edit the .env file in that path with the only line being 
+    "token = yourtokenhere" and replace yourtoken here with your 
+    discord bot's token which can be found on your developer portal
+5. Run the command in terminal: python bot.py 
+      (If you don't have python installed you might have to run pip install python)
+6. Enjoy!
