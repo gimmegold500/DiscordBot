@@ -58,11 +58,11 @@ async def on_reaction_add(reaction, user):
 async def on_reaction_remove(reaction, user):
     await reaction.message.channel.send(f"A Reaction was removed by {user.mention} to {reaction.message.content}")
     
-'''
-@bot.event
-async def on_member_join(member):
-    await
-'''
+
+#@bot.event
+#async def on_member_join(member):
+#    await
+
 
 
 @bot.command()
